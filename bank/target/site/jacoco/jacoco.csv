@@ -1,0 +1,8 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+bank,pt.ulisboa.tecnico.learnjava.bank.domain,Account,34,45,5,7,10,14,6,6,3,3
+bank,pt.ulisboa.tecnico.learnjava.bank.domain,Bank,117,56,3,3,25,16,13,7,10,7
+bank,pt.ulisboa.tecnico.learnjava.bank.domain,CheckingAccount,12,15,2,0,4,3,2,2,1,2
+bank,pt.ulisboa.tecnico.learnjava.bank.domain,Bank.AccountType,0,21,0,0,0,6,0,3,0,3
+bank,pt.ulisboa.tecnico.learnjava.bank.exceptions,BankException,3,0,0,0,1,0,1,0,1,0
+bank,pt.ulisboa.tecnico.learnjava.bank.exceptions,AccountException,3,10,0,0,1,5,1,2,1,2
+bank,pt.ulisboa.tecnico.learnjava.bank.services,BankServices,17,0,0,0,7,0,3,0,3,0
