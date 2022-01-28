@@ -3,3 +3,9 @@
 /.DS_Store/
 
 /target/
+
+sibs/.idea/
+sibs/target/
+
+bank/.idea/
+bank/target/
